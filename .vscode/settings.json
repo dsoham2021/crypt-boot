@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "vector.h": "c",
+        "nvic.h": "c",
+        "gpio.h": "c",
+        "systick.h": "c",
+        "scb.h": "c",
+        "timer_common_all.h": "c",
+        "bk_common.h": "c"
+    }
+}
