@@ -1,0 +1,14 @@
+Reference manual : RM0008 (STM)
+
+Datasheet STM32F103x8 STM32F103xB
+
+UM1724 User manual (STM)
+
+Arm®v7-M Architecture Reference Manual
+
+Learn the architecture - Introducing the Arm architecture Version 2.1
+
+STLINK commands:
+
+    FLASH : sudo st-flash write <file_to_flash>.bin 0x08000000
+    RESET : sudo st-flash reset
